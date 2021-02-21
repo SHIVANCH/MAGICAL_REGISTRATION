@@ -1,7 +1,7 @@
 <?php
 
 $comments = 'root';
-$dsn = 'mysql:host=localhost; dbname=mydb1';
+$dsn = 'mysql:host=localhost; dbname=mydbase1';
 
 try {
 
